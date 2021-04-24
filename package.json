@@ -1,0 +1,22 @@
+{
+    "name": "j8ahmed-color-theme",
+    "displayName": "J8Ahmed Color Theme",
+    "description": "My personal color theme",
+    "publisher": "J8Ahmed",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "J8Ahmed Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/J8Ahmed Color Theme-color-theme.json"
+            }
+        ]
+    }
+}
